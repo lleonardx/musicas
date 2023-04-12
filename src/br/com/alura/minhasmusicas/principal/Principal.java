@@ -34,6 +34,5 @@ public class Principal {
         preferidas.inclui(meuPodcast);
         preferidas.inclui(minhaMusica);
 
-
     }
 }

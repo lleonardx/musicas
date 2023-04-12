@@ -9,8 +9,4 @@ public class MinhasPreferidas {
             System.out.println(audio.getTitulo() + " tambem e um dos que todo mundo esta " + "curtindo!");
         }
     }
-
-
-
-
 }
